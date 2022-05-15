@@ -5,3 +5,4 @@ Things I learnt
 - git clone
 - git commit
 - git push
+- git pull
